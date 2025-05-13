@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1712757052 source:d:\Αντωνιάδης και Καζαντζίδης\c++\alien4\alien.cpp
+	"Alien.h"
+	<cstring>
+
+1712757026 d:\Αντωνιάδης και Καζαντζίδης\c++\alien4\alien.h
+
+1712756996 source:d:\Αντωνιάδης και Καζαντζίδης\c++\alien4\main.cpp
+	"Alien.h"
+	<iostream>
+
