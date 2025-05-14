@@ -15,5 +15,5 @@ int main()
     cin>>number;
     cout<<a[number];
 
-   
+return 0;
 }
